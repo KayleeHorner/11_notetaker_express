@@ -20,6 +20,8 @@ npm install
 ## Usage
 Start the server by running 'node server.js'. Open the local host using 'localhost:3000' in your browser, click the 'Get Started' button and click on the pencil to start writing your note. When you are ready to delete, click the trashcan on the sidebar by the corresponding note.
 
+Heroku Link - https://still-crag-64341.herokuapp.com/
+
 ## License
 This project is licensed under the MIT license.
 
