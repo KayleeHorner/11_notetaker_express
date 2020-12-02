@@ -33,3 +33,8 @@ N/A
 
 ## Questions
 If you have any questions, you can find me on Github under at http://github.com/KayleeHorner. Still have questions? You can email me at: kayleeahorner@gmail.com
+
+## Screenshots
+![Screenshot](./images/notes_main.png)
+![Screenshot](./images/notes_error.png)
+![Screenshot](./images/data_in_terminal.png)
